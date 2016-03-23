@@ -1,0 +1,30 @@
+----------------------------------------------------------------
+2016-03-23 07:22:50.593 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance a816c00e-0153-a25a-c304-000002df46c8
+on database directory C:\Users\gpant\git\JCR_Jackrabbit\JCRExample\repository\version\db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2016-03-23 07:22:50.969 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 888c4022-0153-a25a-c304-000002df46c8
+on database directory C:\Users\gpant\git\JCR_Jackrabbit\JCRExample\repository\workspaces\default\db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2016-03-23 07:22:51.547 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.5.3.0 - (802917): instance 6965c036-0153-a25a-c304-000002df46c8
+on database directory C:\Users\gpant\git\JCR_Jackrabbit\JCRExample\repository\workspaces\security\db  
+
+Database Class Loader started - derby.database.classpath=''
+
+2016-03-23 07:22:51.844 GMT:
+Shutting down instance 888c4022-0153-a25a-c304-000002df46c8
+----------------------------------------------------------------
+
+2016-03-23 07:22:51.860 GMT:
+Shutting down instance 6965c036-0153-a25a-c304-000002df46c8
+----------------------------------------------------------------
+
+2016-03-23 07:22:51.876 GMT:
+Shutting down instance a816c00e-0153-a25a-c304-000002df46c8
+----------------------------------------------------------------
