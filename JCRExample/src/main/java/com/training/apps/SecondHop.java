@@ -1,10 +1,6 @@
 package com.training.apps;
 
-import javax.jcr.Credentials;
-import javax.jcr.Node;
-import javax.jcr.Repository;
-import javax.jcr.Session;
-import javax.jcr.SimpleCredentials;
+import javax.jcr.*;
 
 import org.apache.jackrabbit.core.TransientRepository;
 
